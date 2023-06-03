@@ -1,0 +1,68 @@
+#header{
+  height: 70px;
+  width: 100%;
+  background-color: aliceblue;
+  box-shadow: 0px 0px 5px 3px rgb(216, 216, 216);
+  display: flex;
+}
+
+#title{
+  font-size: 40px;
+  font-weight: 700;
+  color : rgb(50, 115, 255);
+  margin-left: 100px;
+  display: inline-block;
+}
+
+#tag{
+  font-size: 30px;
+  font-weight: 700;
+  color : rgb(50, 115, 255);
+  margin-left: 1100px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+#formbox{
+  position: absolute;
+  background-color: aliceblue;
+  height: 400px;
+  width: 600px;
+  border-radius: 30px;
+  box-shadow: 0px 0px 5px 2px rgb(216, 216, 216);
+  top: 250px;
+  left: 660px;
+}
+
+#durtag{
+  margin-top: 80px;
+  margin-left: 210px;
+
+}
+
+#duration{
+  margin-top: 10px;
+  margin-left: 150px;
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 30px;
+  text-align: center;
+  background-color: rgb(212, 239, 255);
+}
+
+
+
+#startb{
+  height: 50px;
+  width: 150px;
+  background-color: greenyellow;
+  box-shadow: 0px 0px 5px 2px rgb(216, 216, 216);
+  margin-top: 50px;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  margin-left: 220px;
+  font-size: 25px;
+  cursor: pointer;
+}
