@@ -1,4 +1,5 @@
 A typing speed checking website.
+
 Live demo : https://gbtyping.netlify.app/
 
 Steps to Run:
